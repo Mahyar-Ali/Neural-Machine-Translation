@@ -1,5 +1,6 @@
 # Neural-Machine-Translation
-A Seq2Seq model for Neural Machine Translation with Attention.  
+A Seq2Seq model for Neural Machine Translation with Attention for trasnslating
+any lanuguage.  
 --------------------------------------------------------------------------
 Model Architecture:-
 
