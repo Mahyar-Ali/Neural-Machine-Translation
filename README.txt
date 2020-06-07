@@ -36,7 +36,7 @@ _________________________________________________________________
 
 -------------------------------------------------------------------------------
 
-For thi example the model was trained for onlt ten epochs on the spa-eng dataset
+For this example the model was trained for only ten epochs on the spa-eng dataset
 (50,000 examples). Still, the model managed to achieve very good results. This 
 model can be considered as a blueprint and can be used to translate between any
 language.
